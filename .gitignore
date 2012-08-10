@@ -1,0 +1,11 @@
+target/classes/
+test-classes/
+*.class
+target/
+*~
+logs/
+.settings/
+.classpath
+.project
+grape-uic-sso/cas.log
+grape-uic-sso/perfStats.log
