@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-target/classes/
-test-classes/
-=======
-*.class
-
 # Package Files #
 *.jar
 *.war
@@ -12,17 +6,10 @@ test-classes/
 classes/
 test-classes/
 test-output/
->>>>>>> a6ffb18cb809379552f2b89faad705c7ea5ae49f
 *.class
 target/
 *~
 logs/
 .settings/
 .classpath
-<<<<<<< HEAD
 .project
-grape-uic-sso/cas.log
-grape-uic-sso/perfStats.log
-=======
-.project
->>>>>>> a6ffb18cb809379552f2b89faad705c7ea5ae49f
