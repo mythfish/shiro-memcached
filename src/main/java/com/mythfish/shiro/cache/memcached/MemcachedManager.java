@@ -35,7 +35,7 @@ public class MemcachedManager implements CacheManager, Initializable, Destroyabl
     /**
      * The Memcached cache manager used by this implementation to create caches.
      */
-    protected Map<String, MemcachedClient> clients = Maps.newConcurrentMap();
+    protected Map<String, MemcachedClient> clients = null;
     protected MemcachedClientBuilder builder = null;
 
     /**
